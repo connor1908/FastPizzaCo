@@ -1,5 +1,5 @@
 # Fast Pizza Co.
-
+Pizza Order Application
 
 # React + Vite
 
